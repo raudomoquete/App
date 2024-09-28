@@ -1,1 +1,1 @@
-## this code where added following The Node.js Master class By Pirple
+## this code was added following The Node.js Master class By Pirple
